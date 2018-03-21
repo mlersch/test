@@ -1,0 +1,8 @@
+{
+  "name": "ivestor-search-app",
+  "version": "0.0.2",
+  "description": "A Solvians Product",
+  "private": true,
+  "author": "Solvians IT-Solutions GmbH",
+  "dependencies": {}
+}
